@@ -2,7 +2,7 @@
 Implementations of various DL projects
 
 
-### Deep Learning with PyTorch – Task Checklist
+### to do
 
 - [ ] Data Visualization on MNIST Dataset  
 - [ ] To build a deep learning model using PyTorch for predicting house prices  
